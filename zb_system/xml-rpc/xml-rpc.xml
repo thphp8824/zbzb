@@ -5,10 +5,10 @@
     <engineLink>http://www.zblogcn.com/</engineLink>
     <homePageLink>http://zbth.com/</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://zbth.com/zb_system/xml-rpc/index.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://zbth.com/zb_system/xml-rpc/index.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://zbth.com/zb_system/xml-rpc/index.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://zbth.com/zb_system/xml-rpc/index.php" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="zb_system/xml-rpc/index.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="zb_system/xml-rpc/index.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="zb_system/xml-rpc/index.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="zb_system/xml-rpc/index.php" />
     </apis>
   </service>
 </rsd>
