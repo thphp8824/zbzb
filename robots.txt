@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /zb_users/
+Disallow: /zb_system/
 Sitemap: https://www.llk51.com/sitemap.xml
