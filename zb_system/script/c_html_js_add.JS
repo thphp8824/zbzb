@@ -1,7 +1,7 @@
 var zbpConfig = {
-    bloghost: "",
+    bloghost: "http://zbth.com/",
     blogversion: "173430",
-    ajaxurl: "zb_system/cmd.php?act=ajax&src=",
+    ajaxurl: "http://zbth.com/zb_system/cmd.php?act=ajax&src=",
     cookiepath: "/",
     lang: {
         error: {
